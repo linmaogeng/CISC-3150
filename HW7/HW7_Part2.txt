@@ -1,0 +1,26 @@
+/**It seems like the compiler knows the actually type of the object, but it just doesn't care.
+ * By default, all the methods are possible to throw RuntimeException and Error.
+ * The compiler only complains if there is a statement throwing checked Exception.
+ * Hence, the code you provided throws only Unchecked exception java compiler wouldn't 
+ * complain about this. Compiler only checks the function signature to see if a method throws
+ * Unchecked Exception or not. Once a method is marked to throw Checked Exception, the compiler
+ * would force the method writer to deal with it or mark its method. The fact is that during 
+ * run time, the jvm would pass object as a whole or its actual type. This apply to exceptions
+ * as well. 
+ * SOUCE : 	Experiment
+ * 			https://docs.oracle.com/javase/tutorial/essential/exceptions/runtime.html
+ * 			https://www.geeksforgeeks.org/checked-vs-unchecked-exceptions-in-java/
+*/
+
+/**This syntax was added to solve diamond problem which caused by the adding of default 
+ * method in interface. It specifies which super method to be called when there are more than
+ * one possible method. Before Java 8, the default method wasn't allow in interface.
+ * The only way a class to implements a method without implementing the required interface method
+ * is to use default method from its parent class. Therefore, by default if class Child extends 
+ * from Parent and implements A,B,C interfaces. Let's assume they are implements method doSomething()
+ * The child would call doSomething() from Parent class unless we specify which method to call.
+ * However, this method only allows the calling of method from most specific type.   
+ * 
+ * SOUCE : 	http://www.lambdafaq.org/how-are-conflicting-method-declarations-resolved/
+ * 			http://www.lambdafaq.org/what-about-the-diamond-problem/
+ */
