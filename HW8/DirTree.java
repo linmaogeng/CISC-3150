@@ -65,7 +65,7 @@ public class DirTree {
 		}
 		
 		if(folder.size()>0)
-			fileIn = new StringBuilder(indent).append("â”‚  ");
+			fileIn = new StringBuilder(indent).append("©¦  ");
 		
 		while(!file.isEmpty()) {
 			sb.append(fileIn + file.poll().getName() + lineBreak);
@@ -76,12 +76,12 @@ public class DirTree {
 			sb.append(fileIn + lineBreak + indent);
 			
 			if(folder.size()==0) {
-				sb.append("â””â”€â”€â”€â”€â”€" + subFolder.getName() + ":" + lineBreak);
+				sb.append("©¸©¤©¤©¤©¤©¤" + subFolder.getName() + ":" + lineBreak);
 				printFolder(subFolder,sb,new StringBuilder(indent).append("   \t"));
 			}
 			
 			else {
-				sb.append("â”œâ”€â”€â”€â”€â”€" + subFolder.getName() + ":" + lineBreak);
+				sb.append("©À©¤©¤©¤©¤©¤" + subFolder.getName() + ":" + lineBreak);
 				printFolder(subFolder,sb,new StringBuilder(fileIn).append("   \t"));
 			}
 		}
@@ -90,3 +90,4 @@ public class DirTree {
 
 }
 	
+
