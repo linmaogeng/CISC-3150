@@ -18,7 +18,12 @@ public class DirTree {
 		}
 		
 		if(path.isFile()) {
-			path = new File(path.getAbsolutePath());
+			try {
+			path = new File(path.getCanonicalPath());
+			}
+			catch (Exception ex){
+				path = new File(path.getAbsolutePath());
+			}
 			path = new File(path.getParent());
 		}
 		else if(!path.isDirectory()) {
@@ -30,8 +35,14 @@ public class DirTree {
 	}
 	
 	public static void printFolder(File path) {
+		
 		StringBuilder sb = new StringBuilder();
-		sb.append(path.getName());
+		try {
+			sb.append(path.getCanonicalPath());
+		}
+		catch (Exception ex){
+			sb.append(path.getName());
+		}
 		sb.append(":" + lineBreak);
 		printFolder(path,sb,new StringBuilder());
 		
