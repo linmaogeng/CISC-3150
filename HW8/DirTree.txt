@@ -1,0 +1,445 @@
+C:\Users\linma\Desktop:
+│  Calculus+-+James+Stewart+-+Brooks+Cole+-+8th+edition+-+2016%281%29.pdf
+│  Chap.10 & 11 Review Question.docx
+│  CollegePhysics-OP.pdf
+│  desktop.ini
+│  DirTree.class
+│  DirTree.java
+│  Eclipse.lnk
+│  Excel 2016.lnk
+│  MSI Battery Calibration.lnk
+│  Odyssey Lombardo Version.pdf
+│  Phycis Lab Report.docx
+│  PowerPoint 2016.lnk
+│  工作.docx
+│  
+├──Assns456:
+│     	Assns456.pdf
+│     	fundamentals.csv
+│     	headers.csv
+│     	hw4.sql
+│     	hw4_top30.sql
+│     	hw5.txt
+│     	prices.csv
+│     	securities.csv
+│  
+├──NDS:
+│     	│  AUTHORS
+│     	│  ChangeLog
+│     	│  COPYING
+│     	│  desmume.ddb
+│     	│  desmume.ini
+│     	│  DeSmuME_0.9.11_x64.exe
+│     	│  DeSmuME_v.0.9.7_x64_release_wifi.exe
+│     	│  firmware.dfc
+│     	│  README
+│     	│  README.WIN
+│     	│  
+│     	├──Battery:
+│     	│     	ACGHH-0116-PMB2FULL.dsv
+│     	│     	ACGHH-0116-PMW2FULL.dsv
+│     	│     	ACGHH_0060_pmxj.dsv
+│     	│     	SX-FE12.dsv
+│     	│     	火之纹章.dsv
+│     	│  
+│     	├──Cheats:
+│     	│     	ACGHH-0116-PMB2FULL.dct
+│     	│     	ACGHH_0060_pmxj.dct
+│     	│     	SX-FE12.dct
+│     	│  
+│     	├──Firmware:
+│     	│     	biosnds7.bin
+│     	│     	biosnds9.bin
+│     	│     	firmware.bin
+│     	│  
+│     	├──Roms:
+│     	│     	ACGHH-0116-PMB2FULL.nds
+│     	│     	ACGHH-0116-PMW2FULL.nds
+│     	│     	ACGHH_0060_pmxj.nds
+│     	│     	SX-FE12.nds
+│     	│  
+│     	└──States:
+│     	   	ACGHH-0116-PMB2FULL.ds0
+│     	   	ACGHH-0116-PMB2FULL.ds1
+│     	   	ACGHH-0116-PMB2FULL.ds2
+│     	   	ACGHH-0116-PMB2FULL.ds3
+│     	   	ACGHH-0116-PMB2FULL.ds4
+│     	   	ACGHH-0116-PMB2FULL.ds5
+│     	   	ACGHH-0116-PMB2FULL.ds6
+│     	   	ACGHH-0116-PMB2FULL.ds7
+│     	   	ACGHH-0116-PMB2FULL.ds8
+│     	   	ACGHH-0116-PMB2FULL.ds9
+│     	   	ACGHH_0060_pmxj.ds0
+│     	   	ACGHH_0060_pmxj.ds1
+│     	   	ACGHH_0060_pmxj.ds2
+│     	   	ACGHH_0060_pmxj.ds3
+│     	   	ACGHH_0060_pmxj.ds4
+│     	   	ACGHH_0060_pmxj.ds5
+│     	   	ACGHH_0060_pmxj.ds6
+│     	   	ACGHH_0060_pmxj.ds7
+│     	   	ACGHH_0060_pmxj.ds8
+│     	   	ACGHH_0060_pmxj.ds9
+│     	   	SX-FE12.ds0
+│     	   	SX-FE12.ds1
+│     	   	SX-FE12.ds2
+│     	   	SX-FE12.ds3
+│     	   	SX-FE12.ds4
+│     	   	SX-FE12.ds5
+│     	   	SX-FE12.ds6
+│     	   	SX-FE12.ds7
+│     	   	SX-FE12.ds8
+│     	   	SX-FE12.ds9
+│  
+├──OLD:
+│     	2016_2_3_LIANG X.xls
+│     	2016_2_4_LIANG X.xls
+│     	8.pdf
+│     	888.pdf
+│     	dsf.pdf
+│     	https___www.engradepro.com_class_gradebook_print.pdf
+│     	Word 2016.lnk
+│  
+├──Red:
+│     	│  00000409.016
+│     	│  00000409.256
+│     	│  29NSU选4
+│     	│  amazon.mmx
+│     	│  APPOLL~1.MPR
+│     	│  Arena.mmx
+│     	│  Barrel.mmx
+│     	│  BayOPigs.mmx
+│     	│  Bermuda.mmx
+│     	│  Binkw32.dll
+│     	│  Blowfish.dll
+│     	│  Blowfish.tlb
+│     	│  Break.mmx
+│     	│  Carville.mmx
+│     	│  Cbnacw32.dll
+│     	│  Conquer.dat
+│     	│  ConquerMD.dat
+│     	│  CrctBrd.yro
+│     	│  Deadman.mmx
+│     	│  Death.mmx
+│     	│  DeepFrze.yro
+│     	│  Disaster.mmx
+│     	│  Drvmgt.dll
+│     	│  Dustbowl.mmx
+│     	│  EB1.mmx
+│     	│  EB2.mmx
+│     	│  EB3.mmx
+│     	│  EB4.mmx
+│     	│  EB5.mmx
+│     	│  expand50.mix
+│     	│  expandmd01.mix
+│     	│  G9U
+│     	│  GAME.com
+│     	│  game.exe
+│     	│  gAME.YRM
+│     	│  gamemd.exe
+│     	│  gameport.dat
+│     	│  GoldSt.mmx
+│     	│  Grinder.mmx
+│     	│  HailMary.mmx
+│     	│  HighExpR.yro
+│     	│  Hills.mmx
+│     	│  Ice_Age.yro
+│     	│  invasion.mmx
+│     	│  IrvineCa.yro
+│     	│  IsleLand.yro
+│     	│  Kaliforn.mmx
+│     	│  Keyboard.ini
+│     	│  KeyboardMD.ini
+│     	│  Killer.mmx
+│     	│  langmd.mix
+│     	│  Language.mix
+│     	│  Lostlake.mmx
+│     	│  Maps01.mix
+│     	│  Maps02.mix
+│     	│  mapsmd03.mix
+│     	│  MojoSprt.yro
+│     	│  MonsterM.yro
+│     	│  MoonPatr.yro
+│     	│  MOVIES01.MIX
+│     	│  movies02.mix
+│     	│  movmd03.mix
+│     	│  mph.exe
+│     	│  mphmd.exe
+│     	│  MSVBVM60.DLL
+│     	│  Multi.mix
+│     	│  multimd.mix
+│     	│  my map.yrm
+│     	│  NewHghts.mmx
+│     	│  NL.CFG
+│     	│  Notes.ico
+│     	│  Oceansid.mmx
+│     	│  Pacific.mmx
+│     	│  Patchget.dat
+│     	│  patchgetmd.dat
+│     	│  Patchw32.dll
+│     	│  Potomac.mmx
+│     	│  PowdrKeg.mmx
+│     	│  Preview.bin
+│     	│  Prismcs.mpr
+│     	│  PServer.exe
+│     	│  ra1.dsk
+│     	│  Ra2.dsk
+│     	│  Ra2.exe
+│     	│  Ra2.ico
+│     	│  RA2.INI
+│     	│  Ra2.lcf
+│     	│  ra2.mix
+│     	│  Ra2.tlb
+│     	│  RA2MD Update.ico
+│     	│  Ra2md.exe
+│     	│  RA2MD.ico
+│     	│  Ra2md.ini
+│     	│  ra2md.lcf
+│     	│  ra2md.mix
+│     	│  Ra2StrLib.dat
+│     	│  RandMap.img
+│     	│  RandMap.Sed
+│     	│  REGISTER.EXE
+│     	│  Register.ini
+│     	│  RiverRam.yro
+│     	│  Rockets.mmx
+│     	│  Roulette.mmx
+│     	│  Round.mmx
+│     	│  SAVE561C.SAV
+│     	│  SeaofIso.mmx
+│     	│  secdrv.sys
+│     	│  Shrapnel.mmx
+│     	│  SinkSwim.yro
+│     	│  standard file list.dat
+│     	│  subtitle.txt
+│     	│  subtitlemd.txt
+│     	│  Tanyas.mmx
+│     	│  Theme.mix
+│     	│  Thememd.mix
+│     	│  Tower.mmx
+│     	│  Transylv.yro
+│     	│  Tsunami.mmx
+│     	│  UNINST.WSU
+│     	│  UNINSTAP.WSU
+│     	│  UNINSTMD.WSU
+│     	│  UninstRA.wsu
+│     	│  Unrepent.yro
+│     	│  Updater.bat
+│     	│  Valley.mmx
+│     	│  W9
+│     	│  Wdt.mix
+│     	│  WOLAPI.DLL
+│     	│  WOLAPI.INI
+│     	│  WOLAPI.WAR
+│     	│  Woldata.key
+│     	│  wolinfo.ini
+│     	│  wolinfoMD.ini
+│     	│  wxd.exe
+│     	│  xmas.mmx
+│     	│  xmp32mw.map
+│     	│  Xpandorama.mpr
+│     	│  YR1.dsk
+│     	│  YURI.exe
+│     	│  yuri.lcf
+│     	│  YuriPlot.mmx
+│     	│  yyy.yrm
+│     	│  必须先注册.exe
+│     	│  进入游戏.EXE
+│     	│  
+│     	├──LAN-play-serials:
+│     	│     	│  
+│     	│     	├──1:
+│     	│     	│     	ra2.reg
+│     	│     	│     	Woldata.key
+│     	│     	│  
+│     	│     	├──2:
+│     	│     	│     	ra2.reg
+│     	│     	│     	Woldata.key
+│     	│     	│  
+│     	│     	├──3:
+│     	│     	│     	ra2.reg
+│     	│     	│     	Woldata.key
+│     	│     	│  
+│     	│     	└──4:
+│     	│     	   	ra2.reg
+│     	│     	   	Woldata.key
+│     	│  
+│     	├──Rmcache:
+│     	│     	0003b8c8.mmp
+│     	│     	0003bf99.mmp
+│     	│     	0003fd84.mmp
+│     	│     	000401da.mmp
+│     	│     	000421cf.mmp
+│     	│     	00042ee0.mmp
+│     	│     	00042fcc.mmp
+│     	│     	00043616.mmp
+│     	│     	00043899.mmp
+│     	│     	00047a52.mmp
+│     	│     	00048314.mmp
+│     	│     	0004951d.mmp
+│     	│     	0004a385.mmp
+│     	│     	0004b1de.mmp
+│     	│     	0004bdf8.mmp
+│     	│     	0004c6a2.mmp
+│     	│     	0004f3d8.mmp
+│     	│     	000517b3.mmp
+│     	│     	000529ce.mmp
+│     	│     	000532a5.mmp
+│     	│     	000546b8.mmp
+│     	│     	00057473.mmp
+│     	│     	00058204.mmp
+│     	│     	0005904c.mmp
+│     	│     	000595ca.mmp
+│     	│     	000599bf.mmp
+│     	│     	0005a09f.mmp
+│     	│     	0005a6c5.mmp
+│     	│     	0005a990.mmp
+│     	│     	0005ad3b.mmp
+│     	│     	0005b4ee.mmp
+│     	│     	0005be61.mmp
+│     	│     	0005c0f6.mmp
+│     	│     	0005c628.mmp
+│     	│     	0005c7d0.mmp
+│     	│     	0005e786.mmp
+│     	│     	0005ed7a.mmp
+│     	│     	0005f4be.mmp
+│     	│     	0006050f.mmp
+│     	│     	00061bf3.mmp
+│     	│     	00062175.mmp
+│     	│     	00062cb1.mmp
+│     	│     	00063476.mmp
+│     	│     	00063716.mmp
+│     	│     	00063be0.mmp
+│     	│     	00063c77.mmp
+│     	│     	00066172.mmp
+│     	│     	00067778.mmp
+│     	│     	000683fa.mmp
+│     	│     	0006871d.mmp
+│     	│     	00068725.mmp
+│     	│     	0006a6df.mmp
+│     	│     	0006a823.mmp
+│     	│     	0006c1ae.mmp
+│     	│     	0006e424.mmp
+│     	│     	000721bc.mmp
+│     	│     	000724b5.mmp
+│     	│     	00073051.mmp
+│     	│     	00074449.mmp
+│     	│     	00075793.mmp
+│     	│     	0007644e.mmp
+│     	│     	00077484.mmp
+│     	│     	000776b7.mmp
+│     	│     	0007885f.mmp
+│     	│     	000794b5.mmp
+│     	│     	000795f1.mmp
+│     	│     	0007a219.mmp
+│     	│     	0007ec92.mmp
+│     	│     	0007eda9.mmp
+│     	│     	0007ee19.mmp
+│     	│     	0007f343.mmp
+│     	│     	000800aa.mmp
+│     	│     	00082aad.mmp
+│     	│     	000837b8.mmp
+│     	│     	000842dd.mmp
+│     	│     	00084934.mmp
+│     	│     	0008493a.mmp
+│     	│     	0008822d.mmp
+│     	│     	00089864.mmp
+│     	│     	0008ac6a.mmp
+│     	│     	0008ae93.mmp
+│     	│     	0008dfaf.mmp
+│     	│     	0008e247.mmp
+│     	│     	0008e266.mmp
+│     	│     	0008e8af.mmp
+│     	│     	0009125c.mmp
+│     	│     	00093f1e.mmp
+│     	│     	00095381.mmp
+│     	│     	0009f931.mmp
+│     	│     	000ab99b.mmp
+│     	│     	ra2md.csf
+│     	│  
+│     	└──Taunts:
+│     	   	gamemd.exe
+│     	   	Tauam01.wav
+│     	   	Tauam02.wav
+│     	   	Tauam03.wav
+│     	   	Tauam04.wav
+│     	   	Tauam05.wav
+│     	   	Tauam06.wav
+│     	   	Tauam07.wav
+│     	   	Tauam08.wav
+│     	   	Taubr01.wav
+│     	   	Taubr02.wav
+│     	   	Taubr03.wav
+│     	   	Taubr04.wav
+│     	   	Taubr05.wav
+│     	   	Taubr06.wav
+│     	   	Taubr07.wav
+│     	   	Taubr08.wav
+│     	   	Taucu01.wav
+│     	   	Taucu02.wav
+│     	   	Taucu03.wav
+│     	   	Taucu04.wav
+│     	   	Taucu05.wav
+│     	   	Taucu06.wav
+│     	   	Taucu07.wav
+│     	   	Taucu08.wav
+│     	   	Taufr01.wav
+│     	   	Taufr02.wav
+│     	   	Taufr03.wav
+│     	   	Taufr04.wav
+│     	   	Taufr05.wav
+│     	   	Taufr06.wav
+│     	   	Taufr07.wav
+│     	   	Taufr08.wav
+│     	   	Tauge01.wav
+│     	   	Tauge02.wav
+│     	   	Tauge03.wav
+│     	   	Tauge04.wav
+│     	   	Tauge05.wav
+│     	   	Tauge06.wav
+│     	   	Tauge07.wav
+│     	   	Tauge08.wav
+│     	   	Tauir01.wav
+│     	   	Tauir02.wav
+│     	   	Tauir03.wav
+│     	   	Tauir04.wav
+│     	   	Tauir05.wav
+│     	   	Tauir06.wav
+│     	   	Tauir07.wav
+│     	   	Tauir08.wav
+│     	   	Tauko01.wav
+│     	   	Tauko02.wav
+│     	   	Tauko03.wav
+│     	   	Tauko04.wav
+│     	   	Tauko05.wav
+│     	   	Tauko06.wav
+│     	   	Tauko07.wav
+│     	   	Tauko08.wav
+│     	   	Tauli01.wav
+│     	   	Tauli02.wav
+│     	   	Tauli03.wav
+│     	   	Tauli04.wav
+│     	   	Tauli05.wav
+│     	   	Tauli06.wav
+│     	   	Tauli07.wav
+│     	   	Tauli08.wav
+│     	   	Tauru01.wav
+│     	   	Tauru02.wav
+│     	   	Tauru03.wav
+│     	   	Tauru04.wav
+│     	   	Tauru05.wav
+│     	   	Tauru06.wav
+│     	   	Tauru07.wav
+│     	   	Tauru08.wav
+│     	   	tauyu01.wav
+│     	   	tauyu02.wav
+│     	   	tauyu03.wav
+│     	   	tauyu04.wav
+│     	   	tauyu05.wav
+│     	   	tauyu06.wav
+│     	   	tauyu07.wav
+│     	   	tauyu08.wav
+│  
+└──SecureW2:
+   	BC-WiFi SecureW2 Setup.bat
+   	SecureW2.inf
+   	SecureW2_Enterprise_Client_3517.exe
