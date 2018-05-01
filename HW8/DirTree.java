@@ -1,3 +1,4 @@
+import java.awt.Desktop;
 import java.io.*;
 import java.util.*;
 
@@ -47,13 +48,32 @@ public class DirTree {
 		printFolder(path,sb,new StringBuilder());
 		
 		try {
-			PrintWriter pw = new PrintWriter(new File("DirTree.txt"));
+			File file = new File("DirTree.txt");
+			PrintWriter pw = new PrintWriter(file,"UTF-8");
 			pw.print(sb);
 			pw.close();
+			
+			if(!Desktop.isDesktopSupported()){
+	            System.out.println("Desktop is not supported");
+	        }
+			else {
+		        Desktop desktop = Desktop.getDesktop();
+		        if(file.exists())
+		        	desktop.open(file);
+		        else
+		        	throw new FileNotFoundException();
+			}
 		}
 		catch(FileNotFoundException ex) {
-			System.out.println("File system ");
+			System.out.println("File system error.");
 			System.out.println(sb);
+		}
+		catch(UnsupportedEncodingException ex) {
+			System.out.println("File encoding error.");
+			System.out.println(sb);
+		}
+		catch(IOException ex) {
+			System.out.println("Please open 'DirTree.txt' to see your DirTree.");
 		}
 	}
 	
@@ -87,12 +107,12 @@ public class DirTree {
 			sb.append(fileIn + lineBreak + indent);
 			
 			if(folder.size()==0) {
-				sb.append("\u2514\u2500\u2500\u2500\u2500\u2500" + subFolder.getName() + ":" + lineBreak);
+				sb.append("\u2514\u2500\u2500" + subFolder.getName() + ":" + lineBreak);
 				printFolder(subFolder,sb,new StringBuilder(indent).append("   \t"));
 			}
 			
 			else {
-				sb.append("\u251C\u2500\u2500\u2500\u2500\u2500" + subFolder.getName() + ":" + lineBreak);
+				sb.append("\u251C\u2500\u2500" + subFolder.getName() + ":" + lineBreak);
 				printFolder(subFolder,sb,new StringBuilder(fileIn).append("   \t"));
 			}
 		}
@@ -100,5 +120,3 @@ public class DirTree {
 	}
 
 }
-	
-
